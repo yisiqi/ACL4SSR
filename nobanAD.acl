@@ -28,6 +28,12 @@
 [bypass_list]
 # 直连列表
 
+# Inspur
+(^|\.)inspur\.com$
+(^|\.)inspuronline\.com$
+(^|\.)ubml\.org$
+(^|\.)iec\.io$
+
 # MyList
 (^|\.)423down\.com$
 (^|\.)chaipip\.com$
