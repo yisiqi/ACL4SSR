@@ -30,9 +30,12 @@
 
 # Inspur
 (^|\.)inspur\.com$
+(^|\.)inspures\.com$
 (^|\.)inspuronline\.com$
 (^|\.)ubml\.org$
 (^|\.)iec\.io$
+
+#
 
 # MyList
 (^|\.)423down\.com$
@@ -430,6 +433,7 @@
 (^|\.)soso\.com$
 (^|\.)tencent-cloud\.net$
 (^|\.)tencent\.com$
+(^|\.)tencentcs\.com$
 (^|\.)tencentmind\.com$
 (^|\.)tenpay\.com$
 (^|\.)wechat\.com$
