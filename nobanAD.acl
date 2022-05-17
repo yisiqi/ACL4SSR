@@ -433,6 +433,7 @@
 (^|\.)soso\.com$
 (^|\.)tencent-cloud\.net$
 (^|\.)tencent\.com$
+(^|\.)cloud\.tencent\.com$
 (^|\.)tencentcs\.com$
 (^|\.)tencentmind\.com$
 (^|\.)tenpay\.com$
